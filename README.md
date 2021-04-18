@@ -7,11 +7,11 @@ List of languages, libraries and modules used to make this project.
 ### Programming language:
 * Python
 ### Libraries and modules:
-* drive from google.colab
-* wavfile from scipy.io
-* mixture from sklearn
-* evaluate from eval
-* pyplot from matplotlib
+* google.colab
+* scipy.io
+* sklearn
+* eval
+* matplotlib
 * os
 * glob
 * pickle
@@ -19,7 +19,6 @@ List of languages, libraries and modules used to make this project.
 * librosa
 * time
 * random
-* sklearn
 * csv
 * sys
 ## Setup
