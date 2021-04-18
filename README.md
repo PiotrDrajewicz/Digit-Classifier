@@ -21,5 +21,3 @@ List of languages, libraries and modules used to make this project.
 * random
 * csv
 * sys
-## Setup
-To run this project you need to download given data and put it in your google drive. When this is done, change the paths in the code so they will match your drive. After that you're good to go.
